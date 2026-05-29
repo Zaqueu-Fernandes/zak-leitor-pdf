@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pdf-pro-v1';
+const CACHE_NAME = 'zak-pdf-pro-v1';
 const STATIC_ASSETS = [
   '/index.html',
   '/manifest.json'
