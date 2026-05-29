@@ -1,11 +1,11 @@
 {
-  "name": "ZAK_PDF_Leitor",
-  "short_name": "PDF Pro",
+  "name": "Zak PDF Pro",
+  "short_name": "Zak PDF",
   "description": "Abra, leia e anote arquivos PDF no seu celular",
   "start_url": "/zak-leitor-pdf/index.html",
   "display": "standalone",
-  "background_color": "#0f0e17",
-  "theme_color": "#0f0e17",
+  "background_color": "#c81e28",
+  "theme_color": "#c81e28",
   "orientation": "portrait-primary",
   "icons": [
     {
@@ -23,6 +23,14 @@
   ],
   "categories": ["productivity", "utilities"],
   "screenshots": [],
+  "file_handlers": [
+    {
+      "action": "/zak-leitor-pdf/index.html",
+      "accept": {
+        "application/pdf": [".pdf"]
+      }
+    }
+  ],
   "shortcuts": [
     {
       "name": "Abrir PDF",
