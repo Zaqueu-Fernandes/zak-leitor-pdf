@@ -2,7 +2,7 @@
   "name": "ZAK_PDF_Leitor",
   "short_name": "PDF Pro",
   "description": "Abra, leia e anote arquivos PDF no seu celular",
-  "start_url": "/index.html",
+  "start_url": "/zak-leitor-pdf/index.html",
   "display": "standalone",
   "background_color": "#0f0e17",
   "theme_color": "#0f0e17",
@@ -28,7 +28,7 @@
       "name": "Abrir PDF",
       "short_name": "Abrir",
       "description": "Abrir um arquivo PDF",
-      "url": "/index.html?action=open",
+      "url": "/zak-leitor-pdf/index.html?action=open",
       "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }]
     }
   ]

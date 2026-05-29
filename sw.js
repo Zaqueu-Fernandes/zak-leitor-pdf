@@ -1,7 +1,7 @@
 const CACHE_NAME = 'zak-pdf-pro-v1';
 const STATIC_ASSETS = [
-  '/index.html',
-  '/manifest.json'
+  '/zak-leitor-pdf/index.html',
+  '/zak-leitor-pdf/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {
